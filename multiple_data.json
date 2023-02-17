@@ -1,0 +1,38 @@
+[
+    {
+        
+            "eventname": "birthday party",
+            "eventdate": "25-02-2023",
+            "eventlocation": "madhapur area",
+            "budget": 180000,
+            "guestlist":180,
+            "note": "need to array kids sports"
+        
+        
+    },
+    {
+        "eventname": " party",
+        "eventdate": "20-05-2023",
+        "eventlocation": " flim city",
+        "budget": 100000,
+        "guestlist":150,
+        "note": "need to array music"
+    
+    },
+    {
+    "eventname": "function",
+        "eventdate": "19-06-2023",
+        "eventlocation": " hitech city",
+        "budget": 150000,
+        "guestlist":100,
+        "note": "need to array dj"
+    },
+    {
+    "eventname": " event",
+        "eventdate": "11-07-2023",
+        "eventlocation": " hall",
+        "budget": 200000,
+        "guestlist":180,
+        "note": "need to array meeting stage"
+}
+]
