@@ -109,3 +109,5 @@ INSERT INTO event_planning (
       DELETE FORM event_planning
       WHERE event_name='marriage'
 ```
+```sql
+```
